@@ -1,0 +1,3 @@
+The portfolio website includes several sections such as a profile introduction, an about section which includes detailing background, a projects section showcasing recent projects with images and links to GitHub repositories and live demos, a services section outlining the development services offered, and a contact section with contact information and links to email and LinkedIn.
+
+The website features a responsive design with a desktop navigation bar and a hamburger menu for smaller screens. It utilizes HTML for structure, CSS for styling including media queries for responsiveness, and JavaScript for interactivity such as toggling the hamburger menu. The design is clean and professional, focusing on showcasing skills and projects effectively.
